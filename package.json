@@ -1,5 +1,6 @@
 {
   "name": "express_routing",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,10 +13,10 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "isomorphic-fetch": "^3.0.0"
+    "isomorphic-fetch": "^3.0.0",
+    "morgan": "^1.10.0"
   },
-  "type": "module",
   "devDependencies": {
-    "nodemon": "^2.0.12"
+  "nodemon": "^2.0.12"
   }
 }

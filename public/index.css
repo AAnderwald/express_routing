@@ -1,0 +1,19 @@
+* {
+    background-color: goldenrod;
+    margin-left: 10px;
+}
+
+li { 
+    display: block; 
+}
+
+.centerMe {
+    text-align: center;
+    font-size: 30px;
+ }
+ 
+ .centerMeToo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
